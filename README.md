@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi, I'm Prashant Gupta 👋  
 
-<!--
-**prashant2209-cloud/prashant2209-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Third-year B.Tech Computer Science student passionate about building real-world tech solutions.  
+💻 Skilled in Python, JavaScript, and modern web development with experience in AI and beginner-level machine learning.  
+🔐 Interested in Cybersecurity, AI-powered applications, and innovative technology solutions.  
 
-Here are some ideas to get you started:
+🛠 Tech Stack  
+- Languages: C/C++, Python, JavaScript  
+- Web: HTML, CSS, React, Bootstrap  
+- Tools: Git, GitHub, VS Code, Jupyter Notebook  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Projects  
+- **Tech360** – A tech platform exploring AI innovations in EVs, autonomous systems, and future technology.  
+- **LegalSangam** – AI-powered platform connecting citizens with legal professionals for accessible legal services.  
+
+🌱 Currently learning: Cybersecurity, AI development, and scalable web applications.  
+
+📫 Connect with me:  
+GitHub: https://github.com/prashant2209-cloud
