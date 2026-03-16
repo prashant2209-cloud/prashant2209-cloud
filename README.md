@@ -1,6 +1,6 @@
 Hi, I'm Prashant Gupta 👋  
 
-🚀 Third-year B.Tech Computer Science student passionate about building real-world tech solutions.  
+🚀 B.Tech Computer Science student passionate about building real-world tech solutions.  
 💻 Skilled in Python, JavaScript, and modern web development with experience in AI and beginner-level machine learning.  
 🔐 Interested in Cybersecurity, AI-powered applications, and innovative technology solutions.  
 
