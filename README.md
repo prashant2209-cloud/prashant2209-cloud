@@ -9,9 +9,7 @@ Hi, I'm Prashant Gupta 👋
 - Web: HTML, CSS, React, Bootstrap  
 - Tools: Git, GitHub, VS Code, Jupyter Notebook  
 
-📌 Projects  
-- **Tech360** – A tech platform exploring AI innovations in EVs, autonomous systems, and future technology.  
-- **LegalSangam** – AI-powered platform connecting citizens with legal professionals for accessible legal services.  
+  
 
 🌱 Currently learning: Cybersecurity, AI development, and scalable web applications.  
 
